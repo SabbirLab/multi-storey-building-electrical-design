@@ -2,11 +2,13 @@
 
 This project presents the complete electrical design and planning of a multi-storey residential building developed as part of the Electrical Wire & Drafting course at United International University.
 
+
 The project focuses on designing a safe, efficient, and standards-compliant electrical system for a 6-storey residential building.
 
 
 
 ⚡ Features
+
 Electrical Load Calculation
 Lighting & Fixture Planning
 Conduit Layout Design
@@ -39,13 +41,14 @@ Apply real-world electrical engineering concepts
 
 
 👨‍💻 Team Members
-Sabbir Ahmed
-Hasan Rayhan Rabbe
-Nafiur Rahman
-MD Mahim Zaman
-MD Tamim Rahman
-Suchana Yesmen Babna
-Nowshin Tabassum Rihun
+
+1.Sabbir Ahmed
+2.Hasan Rayhan Rabbe
+3.Nafiur Rahman
+4.MD Mahim Zaman
+5.MD Tamim Rahman
+6.Suchana Yesmen Babna
+7.Nowshin Tabassum Rihun
 
 
 🤝 Special Thanks
